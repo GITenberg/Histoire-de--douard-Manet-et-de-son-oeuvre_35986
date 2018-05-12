@@ -1,0 +1,29 @@
+_repo: Histoire-de--douard-Manet-et-de-son-oeuvre_35986
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35986-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Duret, Théodore
+    alias: Duret, Theodore
+    birthdate: 1838
+    deathdate: 1927
+    gutenberg_agent_id: '38016'
+    url: http://www.gutenberg.org/2009/agents/38016
+description: ''
+gutenberg_bookshelf: FR Peinture
+gutenberg_issued: '2011-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35986'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manet, Édouard, 1832-1883'
+- !lcsh 'Impressionism (Art)'
+- !lcc 'ND'
+title: Histoire de Édouard Manet et de son oeuvre
+url: http://www.gutenberg.org/ebooks/35986
