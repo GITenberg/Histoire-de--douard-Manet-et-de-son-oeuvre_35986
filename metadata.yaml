@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38016'
     url: http://www.gutenberg.org/2009/agents/38016
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35986#Histoire-de--douard-Manet-et-de-son-oeuvre
 gutenberg_bookshelf: FR Peinture
 gutenberg_issued: '2011-04-28'
 gutenberg_type: Text
